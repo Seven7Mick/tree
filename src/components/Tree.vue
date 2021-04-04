@@ -81,7 +81,7 @@ export default {
 
 <style>
 .tree {
-  width: 700px;
+  max-width: 700px;
   margin: 0 auto;
   background-color: rgba(21, 21, 22, 0.863);
   border: 1px solid rgb(56, 52, 52);
