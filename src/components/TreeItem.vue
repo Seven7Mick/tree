@@ -101,7 +101,7 @@ export default {
   background: none;
   cursor: pointer;
   margin-bottom: 5px;
-  padding: 0 5px;
+  padding: 2px 5px;
   margin-right: 100px;
   font-size: 18px;
   max-width: 320px;
